@@ -1,4 +1,4 @@
-with open('/Users/htelfer/Development/adventofcode2022/one/input.txt') as f:
+with open('/Users/htelfer/Development/adventofcode2022/Day1/input.txt') as f:
     lines = f.readlines()
     sumList = []
     currentElfStashSize = 0
